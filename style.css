@@ -11,9 +11,15 @@
     h1 {
       color: #333;
     }
+    p {
+      color: #666;
+      font-size: 18px;
+    }
   </style>
 </head>
 <body>
   <h1>Hello, world!</h1>
+  <p>Welcome to this simple styled page.</p>
+  <p>Enjoy exploring HTML and CSS!</p>
 </body>
 </html>
